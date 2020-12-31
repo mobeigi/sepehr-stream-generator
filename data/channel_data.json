@@ -1,0 +1,304 @@
+{
+    "channels":[
+       {
+          "id":"jjtvn1",
+          "tvg-id":"Jam-e-Jam 1 IR",
+          "tvg-name":"Jam-e-Jam 1",
+          "tvg-language":"Persian",
+          "tvg-logo":"https://i.imgur.com/tydVaZf.png",
+          "tvg-country":"IR",
+          "tvg-url":"",
+          "group-title":"General"
+       },
+       {
+          "id":"jjtvn2",
+          "tvg-id":"Jam-e-Jam 2 IR",
+          "tvg-name":"Jam-e-Jam 2",
+          "tvg-language":"Persian",
+          "tvg-logo":"https://i.imgur.com/tydVaZf.png",
+          "tvg-country":"IR",
+          "tvg-url":"",
+          "group-title":"General"
+       },
+       {
+          "id":"jjtvn3",
+          "tvg-id":"Jam-e-Jam 3 IR",
+          "tvg-name":"Jam-e-Jam 3",
+          "tvg-language":"Persian",
+          "tvg-logo":"https://i.imgur.com/tydVaZf.png",
+          "tvg-country":"IR",
+          "tvg-url":"",
+          "group-title":"General"
+       },
+       {
+          "id":"1",
+          "tvg-id":"IRIB 1 IR",
+          "tvg-name":"IRIB 1",
+          "tvg-language":"Persian",
+          "tvg-logo":"https://sepehr.irib.ir/uploads/channel/1.png",
+          "tvg-country":"IR",
+          "tvg-url":"",
+          "group-title":"General"
+       },
+       {
+          "id":"2",
+          "tvg-id":"IRIB 2 IR",
+          "tvg-name":"IRIB 2",
+          "tvg-language":"Persian",
+          "tvg-logo":"https://sepehr.irib.ir/uploads/channel/2.png",
+          "tvg-country":"IR",
+          "tvg-url":"",
+          "group-title":"General"
+       },
+       {
+          "id":"3",
+          "tvg-id":"IRIB 3 IR",
+          "tvg-name":"IRIB 3",
+          "tvg-language":"Persian",
+          "tvg-logo":"https://sepehr.irib.ir/uploads/channel/3.png",
+          "tvg-country":"IR",
+          "tvg-url":"",
+          "group-title":"General"
+       },
+       {
+          "id":"4",
+          "tvg-id":"IRIB 4 IR",
+          "tvg-name":"IRIB 4",
+          "tvg-language":"Persian",
+          "tvg-logo":"https://sepehr.irib.ir/uploads/channel/4-min.png",
+          "tvg-country":"IR",
+          "tvg-url":"",
+          "group-title":"General"
+       },
+       {
+          "id":"5",
+          "tvg-id":"IRIB 5 IR",
+          "tvg-name":"IRIB 5",
+          "tvg-language":"Persian",
+          "tvg-logo":"https://sepehr.irib.ir/uploads/channel/iribtv5_min.png",
+          "tvg-country":"IR",
+          "tvg-url":"",
+          "group-title":"General"
+       },
+       {
+          "id":"6",
+          "tvg-id":"IRIB IRINN IR",
+          "tvg-name":"IRIB IRINN",
+          "tvg-language":"Persian",
+          "tvg-logo":"https://sepehr.irib.ir/uploads/channel/khabar-min.png",
+          "tvg-country":"IR",
+          "tvg-url":"",
+          "group-title":"General"
+       },
+       {
+          "id":"209",
+          "tvg-id":"IRIB Amouzesh IR",
+          "tvg-name":"IRIB Amouzesh",
+          "tvg-language":"Persian",
+          "tvg-logo":"https://sepehr.irib.ir/uploads/channel/amozesh-min.png",
+          "tvg-country":"IR",
+          "tvg-url":"",
+          "group-title":"General"
+       },
+       {
+          "id":"8",
+          "tvg-id":"IRIB Quran IR",
+          "tvg-name":"IRIB Quran",
+          "tvg-language":"Persian",
+          "tvg-logo":"https://sepehr.irib.ir/uploads/channel/quran-logo.png",
+          "tvg-country":"IR",
+          "tvg-url":"",
+          "group-title":"General"
+       },
+       {
+          "id":"9",
+          "tvg-id":"IRIB Mostanad IR",
+          "tvg-name":"IRIB Mostanad",
+          "tvg-language":"Persian",
+          "tvg-logo":"https://sepehr.irib.ir/uploads/channel/mostanad-min.png",
+          "tvg-country":"IR",
+          "tvg-url":"",
+          "group-title":"General"
+       },
+       {
+          "id":"12",
+          "tvg-id":"IRIB Namayesh IR",
+          "tvg-name":"IRIB Namayesh",
+          "tvg-language":"Persian",
+          "tvg-logo":"https://sepehr.irib.ir/uploads/channel/namayesh-min.png",
+          "tvg-country":"IR",
+          "tvg-url":"",
+          "group-title":"General"
+       },
+       {
+          "id":"13",
+          "tvg-id":"IRIB Ofogh IR",
+          "tvg-name":"IRIB Ofogh",
+          "tvg-language":"Persian",
+          "tvg-logo":"https://sepehr.irib.ir/uploads/channel/ofogh-min.png",
+          "tvg-country":"IR",
+          "tvg-url":"",
+          "group-title":"General"
+       },
+       {
+          "id":"17",
+          "tvg-id":"IRIB Varzesh IR",
+          "tvg-name":"IRIB Varzesh",
+          "tvg-language":"Persian",
+          "tvg-logo":"https://sepehr.irib.ir/uploads/channel/varzesh-min.png",
+          "tvg-country":"IR",
+          "tvg-url":"",
+          "group-title":"General"
+       },
+       {
+          "id":"20",
+          "tvg-id":"IRIB Pouya IR",
+          "tvg-name":"IRIB Pouya",
+          "tvg-language":"Persian",
+          "tvg-logo":"https://sepehr.irib.ir/uploads/channel/koodak_0c3b8f58fc9cf93bfb151d9400c8f795.png",
+          "tvg-country":"IR",
+          "tvg-url":"",
+          "group-title":"General"
+       },
+       {
+          "id":"18",
+          "tvg-id":"IRIB Salamat IR",
+          "tvg-name":"IRIB Salamat",
+          "tvg-language":"Persian",
+          "tvg-logo":"https://sepehr.irib.ir/uploads/channel/salamat-min.png",
+          "tvg-country":"IR",
+          "tvg-url":"",
+          "group-title":"General"
+       },
+       {
+          "id":"19",
+          "tvg-id":"IRIB Nasim IR",
+          "tvg-name":"IRIB Nasim",
+          "tvg-language":"Persian",
+          "tvg-logo":"https://sepehr.irib.ir/uploads/channel/nasim-min.png",
+          "tvg-country":"IR",
+          "tvg-url":"",
+          "group-title":"General"
+       },
+       {
+          "id":"75",
+          "tvg-id":"IRIB Tamasha IR",
+          "tvg-name":"IRIB Tamasha",
+          "tvg-language":"Persian",
+          "tvg-logo":"https://sepehr.irib.ir/uploads/channel/tamasha-min.png",
+          "tvg-country":"IR",
+          "tvg-url":"",
+          "group-title":"General"
+       },
+       {
+          "id":"109",
+          "tvg-id":"IRIB Omid IR",
+          "tvg-name":"IRIB Omid",
+          "tvg-language":"Persian",
+          "tvg-logo":"https://sepehr.irib.ir/uploads/channel/omido-min.png",
+          "tvg-country":"IR",
+          "tvg-url":"",
+          "group-title":"General"
+       },
+       {
+          "id":"10",
+          "tvg-id":"IRIB Shoma IR",
+          "tvg-name":"IRIB Shoma",
+          "tvg-language":"Persian",
+          "tvg-logo":"https://sepehr.irib.ir/uploads/channel/shoma-min-1.png",
+          "tvg-country":"IR",
+          "tvg-url":"",
+          "group-title":"General"
+       },
+       {
+          "id":"11",
+          "tvg-id":"IRIB Iran Kala IR",
+          "tvg-name":"IRIB Iran Kala",
+          "tvg-language":"Persian",
+          "tvg-logo":"https://sepehr.irib.ir/uploads/channel/iran-kala.png",
+          "tvg-country":"IR",
+          "tvg-url":"",
+          "group-title":"General"
+       },
+       {
+          "id":"116",
+          "tvg-id":"IRIB Javaneh IR",
+          "tvg-name":"IRIB Javaneh",
+          "tvg-language":"Persian",
+          "tvg-logo":"https://sepehr.irib.ir/uploads/channel/shabake-javane130-130.png",
+          "tvg-country":"IR",
+          "tvg-url":"",
+          "group-title":"General"
+       },
+       {
+          "id":"114",
+          "tvg-id":"IRIB Nama IR",
+          "tvg-name":"IRIB Nama",
+          "tvg-language":"Persian",
+          "tvg-logo":"https://sepehr.irib.ir/uploads/channel/shabake-nama130-130.png",
+          "tvg-country":"IR",
+          "tvg-url":"",
+          "group-title":"General"
+       },
+       {
+          "id":"117",
+          "tvg-id":"IRIB Jam IR",
+          "tvg-name":"IRIB Jam",
+          "tvg-language":"Persian",
+          "tvg-logo":"https://sepehr.irib.ir/uploads/channel/shabake-jaam130-130.png",
+          "tvg-country":"IR",
+          "tvg-url":"",
+          "group-title":"General"
+       },
+       {
+          "id":"115",
+          "tvg-id":"IRIB Shiran IR",
+          "tvg-name":"IRIB Shiran",
+          "tvg-language":"Persian",
+          "tvg-logo":"https://sepehr.irib.ir/uploads/channel/shabake-shiran130-130.png",
+          "tvg-country":"IR",
+          "tvg-url":"",
+          "group-title":"General"
+       },
+       {
+          "id":"113",
+          "tvg-id":"IRIB Sepehr IR",
+          "tvg-name":"IRIB Sepehr",
+          "tvg-language":"Persian",
+          "tvg-logo":"https://sepehr.irib.ir/uploads/channel/sepehr.live.irib.png",
+          "tvg-country":"IR",
+          "tvg-url":"",
+          "group-title":"General"
+       },
+       {
+          "id":"212",
+          "tvg-id":"IRIB Nava IR",
+          "tvg-name":"IRIB Nava",
+          "tvg-language":"Persian",
+          "tvg-logo":"https://sepehr.irib.ir/uploads/channel/shabake-nava-130-130.png",
+          "tvg-country":"IR",
+          "tvg-url":"",
+          "group-title":"General"
+       },
+       {
+          "id":"280",
+          "tvg-id":"IRIB Thaqalein IR",
+          "tvg-name":"IRIB Thaqalein",
+          "tvg-language":"Persian",
+          "tvg-logo":"https://sepehr.irib.ir/uploads/channel/thaqalein.png",
+          "tvg-country":"IR",
+          "tvg-url":"",
+          "group-title":"General"
+       },
+       {
+          "id":"297",
+          "tvg-id":"IRIB Labbayk IR",
+          "tvg-name":"IRIB Labbayk",
+          "tvg-language":"Persian",
+          "tvg-logo":"https://sepehr.irib.ir/uploads/channel/shabake-labeik-130-130.png",
+          "tvg-country":"IR",
+          "tvg-url":"",
+          "group-title":"General"
+       }
+    ]
+ }
