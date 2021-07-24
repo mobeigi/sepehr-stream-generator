@@ -4,6 +4,7 @@ from .m3u_writer import M3UWriter
 import os
 import sys
 import json
+import time
 
 # Set CWD to script directory
 os.chdir(sys.path[0])
@@ -15,6 +16,7 @@ with open('data/channel_data.json', 'r') as f:
 
 # Fetch links
 browser = Browser()
+SLEEP_BETWEEN_REQUESTS_IN_SECONDS = 2
 
 for channel in channel_data["channels"]:
     id = channel["id"]
@@ -22,10 +24,13 @@ for channel in channel_data["channels"]:
     if id.lower().startswith('jjtvn'):
         # Use JJTVN method
         frame = browser.get_jjtvn_sepehr_frame(id)
+        time.sleep(SLEEP_BETWEEN_REQUESTS_IN_SECONDS)
         channel["link"] = browser.get_jjtvn_link_for_frame(id, frame)
     else:
         # Use generic Sepehr method
         channel["link"] = browser.get_sepehr_link(id)
+
+    time.sleep(SLEEP_BETWEEN_REQUESTS_IN_SECONDS)
 
 # Dump final channel data file
 with open('out/channel_data_with_links.json', 'w') as outfile:
