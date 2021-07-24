@@ -63,8 +63,9 @@ I am using this alongside [Xteve](https://github.com/xteve-project/xTeVe) to get
 * IRIB Shiran
 * IRIB Sepehr
 * IRIB Nava
-* IRIB Thaqalein
 * IRIB Labbayk
+* IRIB Habib TV
+* IRIB Ayam
 
 ## Contributions
 Contributions are always welcome!

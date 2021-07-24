@@ -281,21 +281,31 @@
           "group-title":"General"
        },
        {
-          "id":"280",
-          "tvg-id":"IRIB Thaqalein IR",
-          "tvg-name":"IRIB Thaqalein",
-          "tvg-language":"Persian",
-          "tvg-logo":"https://sepehr.irib.ir/uploads/channel/thaqalein.png",
-          "tvg-country":"IR",
-          "tvg-url":"",
-          "group-title":"General"
-       },
-       {
           "id":"297",
           "tvg-id":"IRIB Labbayk IR",
           "tvg-name":"IRIB Labbayk",
           "tvg-language":"Persian",
           "tvg-logo":"https://sepehr.irib.ir/uploads/channel/shabake-labeik-130-130.png",
+          "tvg-country":"IR",
+          "tvg-url":"",
+          "group-title":"General"
+       },
+       {
+          "id":"298",
+          "tvg-id":"IRIB Habib TV IR",
+          "tvg-name":"IRIB Habib TV",
+          "tvg-language":"Persian",
+          "tvg-logo":"https://sepehr.irib.ir/uploads/channel/habibtv.jpg",
+          "tvg-country":"IR",
+          "tvg-url":"",
+          "group-title":"General"
+       },
+       {
+          "id":"299",
+          "tvg-id":"IRIB Ayam IR",
+          "tvg-name":"IRIB Ayam",
+          "tvg-language":"Persian",
+          "tvg-logo":"https://sepehr.irib.ir/uploads/channel/ayam.png",
           "tvg-country":"IR",
           "tvg-url":"",
           "group-title":"General"
