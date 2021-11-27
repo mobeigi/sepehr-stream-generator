@@ -1,6 +1,9 @@
+from .sepehr_channel import SepehrChannel
+
 import mechanicalsoup
-import re
-import urllib
+import string
+import random
+from time import time
 
 class Browser:
     def __init__(self):
@@ -8,73 +11,85 @@ class Browser:
         self.browser = mechanicalsoup.StatefulBrowser()
         self.browser.set_user_agent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36')
 
-    def get_csrf_token(self, channel):
-        """ Get authorization token (CSRF protection token) that must be included in all requests """
-        SEPEHR_TV_PAGE = f'https://sepehr.irib.ir/?idc=32&idt=tv&idv={channel}'
-        home_page = self.browser.get(SEPEHR_TV_PAGE)
+    def generate_oauth_authorization_field(self):
+        """ Generate data for OAuth Authorization header """
+        timestamp = int(time())
+        oauth_nonce = ''.join(random.choice(string.ascii_letters + string.digits) for _ in range(32)) # nonce is seemingly random 32 length string
+        return f'OAuth oauth_consumer_key="84ALFkdjpBX0DSR3DsaLo364lKs1hTGq", oauth_nonce="{oauth_nonce}", oauth_signature="OGUzYWY4NGE2ZTE2YzRmOTJjMmY3YTA0MTFmZjc3ODUzNjIwMTJhZg%3D%3D", oauth_signature_method="HMAC-SHA1", oauth_timestamp="{timestamp}", oauth_token="b49255684ad9347386d890a04a642bfa7052d69ca568938b622ca7d84ed93972", oauth_version="1.0"'
 
-        if home_page.status_code != 200:
-            raise SystemError
-
-        return self.get_csrf_token_helper(home_page.text)
-
-
-    def get_csrf_token_helper(self, text):
-        """ Parse CSRF token from html """
-        TOKEN_REGEXP_STRING = r'<meta name="csrf-token" content="(.*?)"'
-        regexp = re.compile(TOKEN_REGEXP_STRING, re.MULTILINE)
-
-        matches = regexp.search(text)
-
-        if not matches or len(matches.groups()) != 1:
-            raise SystemError
-
-        return matches[1]
-
-    def get_sepehr_link(self, channel):
-        """ Get link for the provided channel """
-        SEPEHR_GET_LINK_URL = f'https://sepehr.irib.ir/getLink/{channel}/tv'
-
+    def get_all_sepehr_channels(self):
+        """ Get all of Sepehrs channel list"""
+        SEPEHR_API_ALL_CHANNELS_URL = f'https://sepehrapi.irib.ir/v3/channels/1?page_size=1000&page=1&include_media_resources=true&include_details=true'
+        
         headers = {
-            'X-CSRF-TOKEN': self.get_csrf_token(channel),
+            'Authorization': self.generate_oauth_authorization_field() 
         }
-
-        response = self.browser.post(SEPEHR_GET_LINK_URL, headers=headers)
+        response = self.browser.get(SEPEHR_API_ALL_CHANNELS_URL, headers=headers)
 
         if response.status_code != 200:
             raise SystemError
+
+        # Check we received the listing data we needed
+        json = response.json()
+        if 'list' not in json or json['list'] is None or len(json['list']) == 0:
+            raise SystemError
         
-        return response.json()
+        sepehr_channels = []
+        for channel in json["list"]:
+            if 'streams' not in channel or channel['streams'] is None or len(channel['streams']) == 0 or 'src' not in channel['streams'][0]:
+                # TODO: Log error
+                continue
 
-    def get_jjtvn_sepehr_frame(self, channel):
-        """ Get frame for the provided channel. Must be done befroee requesting link for frame. """
-        SEPEHR_GET_LINK_FRAME_URL = f'https://sepehr.irib.ir/frame/t/{channel}'
+            sepehr_channel = SepehrChannel(
+                channel['id'],
+                channel['uid'],
+                channel['name'],
+                channel['type'],
+                channel['icon'],
+                channel['streams'][0]['src'],
+            )
+            sepehr_channels.append(sepehr_channel)
 
+        return sepehr_channels
+
+    def get_sepehr_channel_by_id(self, id):
+        """ Get channel using channel id (numeric) """
+        SEPEHR_API_CHANNELS_URL = f'https://sepehrapi.irib.ir/v3/channels/?list={id}&include_media_resources=true&include_details=true'
+        return self.get_sepehr_channel(SEPEHR_API_CHANNELS_URL)
+        
+    def get_sepehr_channel_by_uid(self, uid):
+        """ Get channel using channel uid (string) """
+        SEPEHR_API_CHANNELS_URL = f'https://sepehrapi.irib.ir/v3/channels/?key={uid}&include_media_resources=true&include_details=true'
+        return self.get_sepehr_channel(SEPEHR_API_CHANNELS_URL)
+
+    def get_sepehr_channel(self, url):
+        """ Get channel using API channel url """
+        
+        # Send request
         headers = {
-            'Referer': 'http://www.jjtvn.ir/'
+            'Authorization': self.generate_oauth_authorization_field() 
         }
+        response = self.browser.get(url, headers=headers)
 
-        frame = self.browser.get(SEPEHR_GET_LINK_FRAME_URL, headers=headers)
-
-        if frame.status_code != 200:
+        if response.status_code != 200:
             raise SystemError
 
-        return frame
-
-
-    def get_jjtvn_link_for_frame(self, channel, frame):
-        """ Get link for frame for the provided channel """
-        SEPEHR_GET_LINK_FRAME_URL = f'https://sepehr.irib.ir/getLinkFrame/{channel}'
-
-        csrf_token = self.get_csrf_token_helper(frame.text)
-
-        headers = {
-            'X-CSRF-TOKEN': csrf_token
-        }
-
-        response = self.browser.post(SEPEHR_GET_LINK_FRAME_URL, headers=headers)
-        
-        if frame.status_code != 200:
+        # Check we received the listing data we needed
+        json = response.json()
+        if 'list' not in json or json['list'] is None or len(json['list']) == 0:
             raise SystemError
 
-        return response.json()
+        channel = response.json()['list'][0]
+
+        if 'streams' not in channel or channel['streams'] is None or len(channel['streams']) == 0 or 'src' not in channel['streams'][0]:
+            # TODO: Log error
+            raise SystemError
+
+        return SepehrChannel(
+            channel['id'],
+            channel['uid'],
+            channel['name'],
+            channel['type'],
+            channel['icon'],
+            channel['streams'][0]['src'],
+        )

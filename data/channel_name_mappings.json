@@ -1,0 +1,33 @@
+{
+    "mappings": {
+        "jjtvn1": "Jam-e-Jam 1 (Vienna)",
+        "jjtvn2": "Jam-e-Jam 2 (North America)",
+        "jjtvn3": "Jam-e-Jam 3 (Asia/Australia)",
+        "tv1": "IRIB 1",
+        "tv2": "IRIB 2",
+        "tv3": "IRIB 3",
+        "tv4": "IRIB 4",
+        "tv5": "IRIB 5",
+        "irinn": "IRIB IRINN",
+        "amouzesh": "IRIB Amouzesh",
+        "quran": "IRIB Quran",
+        "mostanad": "IRIB Mostanad",
+        "namayesh": "IRIB Namayesh",
+        "ofogh": "IRIB Ofogh",
+        "varzesh": "IRIB Varzesh",
+        "pouya": "IRIB Pouya",
+        "salamat": "IRIB Salamat",
+        "nasim": "IRIB Nasim",
+        "irankala": "IRIB Iran Kala",
+        "omid": "IRIB Omid",
+        "tamasha": "IRIB Tamasha",
+        "shoma": "IRIB Shoma",
+        "sepehr": "IRIB Sepehr",
+        "ifilmfa": "IRIB iFilm",
+        "javaneh": "IRIB Javaneh",
+        "nama": "IRIB Nama",
+        "jam": "IRIB Jam",
+        "nava": "IRIB Nava",
+        "habibtv": "IRIB Habib TV"
+    }
+}
