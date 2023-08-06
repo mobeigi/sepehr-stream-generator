@@ -4,37 +4,37 @@
          "id":31,
          "uid":"tv1",
          "tvg-id":"tv1 IR",
-         "tvg-name":"IRIB 1 (\u06cc\u06a9)",
+         "tvg-name":"IRIB 1 (\u06cc\u06a9 - HD)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://sepehrtv.ir/uploads/channel/1.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/logo/1.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/twb/live/tv1/playlist_dvr.m3u8?s=j_CzJbIkqGoS8Gx07uOL7A&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/tv1hd/tv1hd.m3u8?s=oqeH6fPyJA_JNJ2onHRYQw&t=1691302656"
       },
       {
          "id":32,
          "uid":"tv2",
          "tvg-id":"tv2 IR",
-         "tvg-name":"IRIB 2 (\u062f\u0648)",
+         "tvg-name":"IRIB 2 (\u062f\u0648 - HD)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://sepehrtv.ir/uploads/channel/2.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/logo/2.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive3/tv2/tv2.m3u8?s=wuFTtZPxR5zkhhNfhiYq-w&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/tv2hd/tv2hd.m3u8?s=bo01kcs5GVzDHgSIdqDiAQ&t=1691302656"
       },
       {
          "id":39,
          "uid":"tv3",
          "tvg-id":"tv3 IR",
-         "tvg-name":"IRIB 3 (\u0633\u0647)",
+         "tvg-name":"IRIB 3 (\u0633\u0647 - HD)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://sepehrtv.ir/uploads/channel/tv3-min.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/logo/tv3-min.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive3/tv3/tv3.m3u8?s=vFGe83sexz1jBAZEo8cFnQ&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/vod/auto_convert/vpn/vpn.m3u8"
       },
       {
          "id":37,
@@ -42,11 +42,11 @@
          "tvg-id":"tv4 IR",
          "tvg-name":"IRIB 4 (\u0686\u0647\u0627\u0631)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://sepehrtv.ir/uploads/channel/4-min.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/logo/4-min.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive3/tv4/tv4.m3u8?s=5cdvu1xs-xLI5h8uPYLqvA&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/tv4sd/tv4sd.m3u8?s=GoniPeq_bGuf7sDP5eRxXg&t=1691302656"
       },
       {
          "id":38,
@@ -54,23 +54,23 @@
          "tvg-id":"tv5 IR",
          "tvg-name":"IRIB 5 (\u067e\u0646\u062c)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://sepehrtv.ir/uploads/channel/iribtv5_min.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/logo/iribtv5_min.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive3/tv5/tv5.m3u8?s=fmyoL_siW3xbhtKIoaGUgg&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/tv5sd/tv5sd.m3u8?s=ueEOwlPdQ-82jn3ANdajag&t=1691302656"
       },
       {
          "id":42,
          "uid":"irinn",
          "tvg-id":"irinn IR",
-         "tvg-name":"IRIB IRINN (\u062e\u0628\u0631)",
+         "tvg-name":"IRIB IRINN (\u062e\u0628\u0631 - HD)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://sepehrtv.ir/uploads/channel/khabar-min.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/logo/khabar-min.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive3/irinn/irinn.m3u8?s=QRBJGl8g0MQgb5I3_JEeiQ&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/irinnhd/irinnhd.m3u8?s=2T-7UNUKUti1KINM6XQ2Lg&t=1691302656"
       },
       {
          "id":72,
@@ -78,11 +78,11 @@
          "tvg-id":"amouzesh IR",
          "tvg-name":"IRIB Amouzesh (\u0622\u0645\u0648\u0632\u0634)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://sepehrtv.ir/uploads/channel/amozesh-min.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/logo/amozesh-min.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive3/amouzesh/amouzesh.m3u8?s=-JNvDsIvJN1gWog49FZOmQ&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/amoozeshsd/amoozeshsd.m3u8?s=GRL0hasKzwaCQKmQEf4K1Q&t=1691302656"
       },
       {
          "id":46,
@@ -90,35 +90,35 @@
          "tvg-id":"quran IR",
          "tvg-name":"IRIB Quran (\u0642\u0631\u0622\u0646)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/quarnlogo.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/quarnlogo.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s1-cloud.irib.ir/live3/twb/live/quran/playlist_dvr.m3u8?s=94BD7GS68uScXPbjgdLAgA&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/quranhd/quranhd.m3u8?s=YpiupNMxKigHAByLT2R7-Q&t=1691302656"
       },
       {
          "id":44,
          "uid":"mostanad",
          "tvg-id":"mostanad IR",
-         "tvg-name":"IRIB Mostanad (\u0645\u0633\u062a\u0646\u062f)",
+         "tvg-name":"IRIB Mostanad (\u0645\u0633\u062a\u0646\u062f - HD)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://sepehrtv.ir/uploads/channel/mostanad-min.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/logo/mostanad-min.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://cdn1live.irib.ir/live-channels/smil:mostanad/playlist.m3u8?s=9rhWOgUhnFKjN7AA4444eQ&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/mostanadhd/mostanadhd.m3u8?s=gHODHO5d8q4ZqcQ1QRkmqQ&t=1691302656"
       },
       {
          "id":45,
          "uid":"namayesh",
          "tvg-id":"namayesh IR",
-         "tvg-name":"IRIB Namayesh (\u0646\u0645\u0627\u06cc\u0634)",
+         "tvg-name":"IRIB Namayesh (\u0646\u0645\u0627\u06cc\u0634 - HD)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://sepehrtv.ir/uploads/channel/namayesh-min.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/logo/namayesh-min.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive3/namayesh/namayesh.m3u8?s=gvWLKk_twSxArv5YEbEr-w&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/namayeshhd/namayeshhd.m3u8?s=dGmzgvZK0LBjOTmHpgmsaA&t=1691302656"
       },
       {
          "id":53,
@@ -126,35 +126,35 @@
          "tvg-id":"ofogh IR",
          "tvg-name":"IRIB Ofogh (\u0627\u0641\u0642)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://sepehrtv.ir/uploads/channel/ofogh-min.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/ofogh.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/ofogh/ofogh.m3u8?s=jZF9jO231BEFmAUgUtFgXg&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/ofoghhd/ofoghhd.m3u8?s=dvPXxZ5d8WvStvfW3qFm8g&t=1691302656"
       },
       {
          "id":51,
          "uid":"varzesh",
          "tvg-id":"varzesh IR",
-         "tvg-name":"IRIB Varzesh (\u0648\u0631\u0632\u0634)",
+         "tvg-name":"IRIB Varzesh (\u0648\u0631\u0632\u0634 - HD)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://sepehrtv.ir/uploads/channel/varzesh-min.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/VarzeshTV300.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://cdn1live.irib.ir/live-channels/smil:varzesh/playlist.m3u8?s=U5k2zOIHHjkQN13RW_Q65w&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/vod/auto_convert/vpn/vpn.m3u8"
       },
       {
          "id":50,
          "uid":"pouya",
          "tvg-id":"pouya IR",
-         "tvg-name":"IRIB Pouya (\u067e\u0648\u06cc\u0627)",
+         "tvg-name":"IRIB Pouya (\u067e\u0648\u06cc\u0627 - HD)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://sepehrtv.ir/uploads/channel/koodak_0c3b8f58fc9cf93bfb151d9400c8f795.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/logo/koodak_0c3b8f58fc9cf93bfb151d9400c8f795.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/pooyanahal/pooyanahal.m3u8?s=qhhtMur3VOieM8m_Tmwh-Q&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/pooyahd/pooyahd.m3u8?s=qZNEMuBaK3mnvNFMuHcctg&t=1691302656"
       },
       {
          "id":15701,
@@ -162,35 +162,35 @@
          "tvg-id":"salamat IR",
          "tvg-name":"IRIB Salamat (\u0633\u0644\u0627\u0645\u062a)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://sepehrtv.ir/uploads/channel/salamat-min.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/logo/salamat-min.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive3/salamat/salamat.m3u8?s=5Z73--F7Jafx88HJqE60dg&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/salamatsd/salamatsd.m3u8?s=b7QTFCIIvGxmqTLj-GaqPA&t=1691302656"
       },
       {
          "id":61,
          "uid":"nasim",
          "tvg-id":"nasim IR",
-         "tvg-name":"IRIB Nasim (\u0646\u0633\u06cc\u0645)",
+         "tvg-name":"IRIB Nasim (\u0646\u0633\u06cc\u0645 - HD)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://sepehrtv.ir/uploads/channel/nasim-min.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/logo/nasim-min.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/nasim/nasim.m3u8?s=Qb-iMBnEoCPlRRc-88tcrA&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/nasimhd/nasimhd.m3u8?s=cI5QS0D3XQIO4Z4YYsLqlA&t=1691302656"
       },
       {
-         "id":48,
-         "uid":"irankala",
-         "tvg-id":"irankala IR",
-         "tvg-name":"IRIB Iran Kala (\u0627\u06cc\u0631\u0627\u0646 \u06a9\u0627\u0644\u0627)",
+         "id":196462,
+         "uid":"uhd",
+         "tvg-id":"uhd IR",
+         "tvg-name":"IRIB uhd (\u067e\u06cc\u0634\u0631\u0627\u0646 \u0641\u0631\u0627\u062a\u0631 (4K))",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/iran-kala-min.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/uhd_4k.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive3/irankala/irankala.m3u8?s=usLJl-eAcre9jjxuChopMA&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/vod/auto_convert/vpn/vpn.m3u8"
       },
       {
          "id":59,
@@ -198,35 +198,23 @@
          "tvg-id":"omid IR",
          "tvg-name":"IRIB Omid (\u0627\u0645\u06cc\u062f)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://sepehrtv.ir/uploads/channel/omido-min.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/logo/omido-min.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/omid/omid.m3u8?s=aZOEv3aHdI09YQjtAeWVNw&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/omidsd/omidsd.m3u8?s=RHiegNmBa9qLTJ4dLiUVFA&t=1691302656"
       },
       {
          "id":55,
          "uid":"tamasha",
          "tvg-id":"tamasha IR",
-         "tvg-name":"IRIB Tamasha (\u062a\u0645\u0627\u0634\u0627)",
+         "tvg-name":"IRIB Tamasha (\u062a\u0645\u0627\u0634\u0627 - HD)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://sepehrtv.ir/uploads/channel/tamasha-min.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/logo/tamasha-min.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive3/tamasha/tamasha.m3u8?s=DCL1YswO55AoZOxhcIY7uA&t=1638008962"
-      },
-      {
-         "id":58,
-         "uid":"shoma",
-         "tvg-id":"shoma IR",
-         "tvg-name":"IRIB Shoma (\u0634\u0645\u0627)",
-         "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/shooma.png",
-         "tvg-country":"IR",
-         "tvg-url":"",
-         "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/shoma/shoma.m3u8?s=CvbZ69omMvzdRI9BeD83jQ&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/tamashahd/tamashahd.m3u8?s=4ufoU74UHfx2OZjCcyOiSw&t=1691302656"
       },
       {
          "id":49,
@@ -234,35 +222,35 @@
          "tvg-id":"sepehr IR",
          "tvg-name":"IRIB Sepehr (\u0633\u067e\u0647\u0631)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://sepehrtv.ir/uploads/channel/sepehr_liveirib.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/logo/sepehr_liveirib.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/sepehr/sepehr.m3u8?s=JUNiDIBow_txJy7JmYc6hA&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/sepehrhd/sepehrhd.m3u8?s=1VzZftjPFitDmMnyLrOVjw&t=1691302656"
       },
       {
          "id":63,
          "uid":"presstv",
          "tvg-id":"presstv IR",
-         "tvg-name":"IRIB presstv (\u067e\u0631\u0633 \u062a\u06cc \u0648\u06cc)",
+         "tvg-name":"IRIB presstv (\u067e\u0631\u0633 \u062a\u06cc \u0648\u06cc - HD)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://sepehrtv.ir/uploads/channel/presstv.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/logo/presstv.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/presstv/presstv.m3u8?s=5S5dyfxiULG0aBARfpCAuA&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/presstvhd/presstvhd.m3u8?s=8i6jAADLoCByCAtlJvtKyQ&t=1691302656"
       },
       {
          "id":70,
          "uid":"alalam",
          "tvg-id":"alalam IR",
-         "tvg-name":"IRIB alalam (\u0627\u0644\u0639\u0627\u0644\u0645)",
+         "tvg-name":"IRIB alalam (\u0627\u0644\u0639\u0627\u0644\u0645 - HD)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://sepehrtv.ir/uploads/channel/alalam-02.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/logo/alalam-02.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://cdn1live.irib.ir/live-channels/smil:alalam/playlist.m3u8?s=GyU2l_jf_3sDlj5KgsZaEQ&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/alalamhd/alalamhd.m3u8?s=wZnP15XedhHLg1yz5yjJFQ&t=1691302656"
       },
       {
          "id":16627,
@@ -270,23 +258,23 @@
          "tvg-id":"hausatvha IR",
          "tvg-name":"IRIB hausatvha (\u0647\u0648\u0633\u0627 \u062a\u06cc \u0648\u06cc)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/hausatv_1.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/hausatv_1.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/presstv/hausatvha/index.m3u8"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/hausatvha/hausatvha.m3u8?s=QSBVSeWq04d6WPevihTvoQ&t=1691302656"
       },
       {
          "id":57,
          "uid":"ifilmfa",
          "tvg-id":"ifilmfa IR",
-         "tvg-name":"IRIB iFilm (\u0622\u06cc \u0641\u06cc\u0644\u0645 \u0641\u0627\u0631\u0633\u06cc)",
+         "tvg-name":"IRIB iFilm (\u0622\u06cc \u0641\u06cc\u0644\u0645 \u0641\u0627\u0631\u0633\u06cc - HD)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/ifilmlogo-85x85-min.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/ifilmlogo-85x85-min.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/live/ifilm/ifilm.m3u8?s=eWODw54IPUYNYZ_LT1TW4w&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/ifilmhd/ifilmhd.m3u8?s=QxbeSD3yoYM7aFancGIKpA&t=1691302656"
       },
       {
          "id":60,
@@ -294,11 +282,11 @@
          "tvg-id":"ifilmen IR",
          "tvg-name":"IRIB ifilmen (\u0622\u06cc \u0641\u06cc\u0644\u0645 \u0627\u0646\u06af\u0644\u06cc\u0633\u06cc)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://sepehrtv.ir/uploads/channel/ifimen-85x85-min.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/logo/ifimen-85x85-min.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive3/ifilmen/ifilmen.m3u8?s=IWbYzQp6KxCdmdNg0kTYiw&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/ifilmengsd/ifilmengsd.m3u8?s=AP1_61yWWsxjtI428TNGYg&t=1691302656"
       },
       {
          "id":15669,
@@ -306,11 +294,11 @@
          "tvg-id":"ifilmdari IR",
          "tvg-name":"IRIB ifilmdari (\u0622\u06cc \u0641\u06cc\u0644\u0645 \u062f\u0631\u06cc)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/ifilm2.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/ifilm2.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://cdn1live.irib.ir/live-channels/smil:ifilmdari/playlist.m3u8?s=vix1-kYyO0KgxSdcBURHpQ&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/ifilm2sd/ifilm2sd.m3u8?s=wOzAnBoOhcQai21xTJYDqg&t=1691302656"
       },
       {
          "id":15671,
@@ -318,11 +306,11 @@
          "tvg-id":"filmarabic IR",
          "tvg-name":"IRIB filmarabic (\u0622\u06cc \u0641\u06cc\u0644\u0645 \u0639\u0631\u0628\u06cc)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/IFILMARABIC.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/IFILMARABIC.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://cdn1live.irib.ir/live-channels/smil:ifilmarabic/playlist.m3u8?s=1R_Glg_D9YUOgF9L-Shvng&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/ifilmarabsd/ifilmarabsd.m3u8?s=q5q_LRyDPC4W4AyRkYrNBQ&t=1691302656"
       },
       {
          "id":66,
@@ -330,11 +318,11 @@
          "tvg-id":"sahar1 IR",
          "tvg-name":"IRIB sahar1 (\u0633\u062d\u0631 \u0622\u0630\u0631\u06cc)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://sepehrtv.ir/uploads/channel/saharazeri.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/logo/saharazeri.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://cdn1live.irib.ir/live-channels/smil:sahar1/playlist.m3u8?s=TRcjZgZM7zfRYJSkgCveWw&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/saharazarsd/saharazarsd.m3u8?s=UzWx1UoQnCI2VXnOz0wq9Q&t=1691302656"
       },
       {
          "id":67,
@@ -342,11 +330,11 @@
          "tvg-id":"sahar2 IR",
          "tvg-name":"IRIB sahar2 (\u0633\u062d\u0631 \u0627\u0631\u062f\u0648)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://sepehrtv.ir/uploads/channel/saharurdu.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/logo/saharurdu.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://cdn1live.irib.ir/live-channels/smil:sahar2/playlist.m3u8?s=RlWZVOlqU25knV02Op9Utw&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/saharurdusd/saharurdusd.m3u8?s=K1T116x3VT66XUfvcaboZA&t=1691302656"
       },
       {
          "id":68,
@@ -354,11 +342,11 @@
          "tvg-id":"sahar3 IR",
          "tvg-name":"IRIB sahar3 (\u0633\u062d\u0631 \u06a9\u0631\u062f\u06cc)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://sepehrtv.ir/uploads/channel/sahar_kurdish.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/logo/sahar_kurdish.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://cdn1live.irib.ir/live-channels/smil:sahar3/playlist.m3u8?s=54FdXBfGQOMtH45bV8nHIQ&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/saharkurdsd/saharkurdsd.m3u8?s=Zud5WmurGurKFlwDrlrveA&t=1691302656"
       },
       {
          "id":69,
@@ -366,11 +354,11 @@
          "tvg-id":"sahar4 IR",
          "tvg-name":"IRIB sahar4 (\u0633\u062d\u0631 \u0628\u0627\u0644\u06a9\u0627\u0646)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://sepehrtv.ir/uploads/channel/saharbalkan.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/logo/saharbalkan.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://cdn1live.irib.ir/live-channels/smil:sahar4/playlist.m3u8?s=BujCg5zqQ_qtluXMbIJ6qQ&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/saharbalksd/saharbalksd.m3u8?s=H3DOOta1870WL1BKpfIz2Q&t=1691302656"
       },
       {
          "id":117989,
@@ -378,11 +366,11 @@
          "tvg-id":"saharafghan IR",
          "tvg-name":"IRIB saharafghan (\u0633\u062d\u0631 \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/saharAFGHANISTAN.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/saharAFGHANISTAN.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://cdn1live.irib.ir/live-channels/smil:saharafghan/playlist.m3u8?s=MVgs5MCYMYRWXeKhwxeCmw&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/saharafghsd/saharafghsd.m3u8?s=PDfHcVJyupecXrDpGWg80w&t=1691302656"
       },
       {
          "id":65,
@@ -390,11 +378,11 @@
          "tvg-id":"alkosar IR",
          "tvg-name":"IRIB alkosar (\u0627\u0644\u06a9\u0648\u062b\u0631)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://sepehrtv.ir/uploads/channel/alkowsar.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/logo/alkowsar.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://cdn1live.irib.ir/live-channels/smil:alkosar/playlist.m3u8?s=Hb4in8cOGdMdG4QC83tTNg&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/alkawtharsd/alkawtharsd.m3u8?s=IXVYTn9WzZJ8Mpk_Ppj7CQ&t=1691302656"
       },
       {
          "id":15657,
@@ -402,23 +390,23 @@
          "tvg-id":"hispan IR",
          "tvg-name":"IRIB hispan (\u0647\u06cc\u0633\u067e\u0627\u0646)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/hispan-tv.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/hispan-tv.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/live3/hispan/hispan.m3u8?s=SDq3o4HxPxfQDGLL-2c9BA&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/hispansd/hispansd.m3u8?s=lD6N2vElgB5lhFn-7Mkb3g&t=1691302656"
       },
       {
          "id":56,
          "uid":"jjtvn1",
          "tvg-id":"jjtvn1 IR",
-         "tvg-name":"Jam-e-Jam 1 (Vienna) (\u062c\u0627\u0645 \u062c\u0645)",
+         "tvg-name":"Jam-e-Jam 1 (Vienna) (\u062c\u0627\u0645 \u062c\u0645 1)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://sepehrtv.ir/uploads/channel/untitled-3-min.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/logo/untitled-3-min.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://cdn1live.irib.ir/live-channels/smil:jjtvn1/playlist.m3u8?s=xNbWD1_zO-ZCPPL8VgcUHA&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/jamejam1hd/jamejam1hd.m3u8?s=uQeCeFR1k0YaWpVsj0JP7g&t=1691302656"
       },
       {
          "id":16211,
@@ -426,23 +414,23 @@
          "tvg-id":"jjtvn2 IR",
          "tvg-name":"Jam-e-Jam 2 (North America) (\u062c\u0627\u0645 \u062c\u0645 \u06f2)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://sepehrtv.ir/uploads/channel/untitled-3-min.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/logo/untitled-3-min.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://cdn1live.irib.ir/live-channels/smil:jjtvn2/playlist.m3u8?s=sabNr6P9Afxvn6KFnQ4ljw&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/jamejam2hd/jamejam2hd.m3u8?s=i9wFoa6hvZYJLXR-QBAPHA&t=1691302656"
       },
       {
          "id":16212,
          "uid":"jjtvn3",
          "tvg-id":"jjtvn3 IR",
-         "tvg-name":"Jam-e-Jam 3 (Asia/Australia) (\u062c\u0627\u0645 \u062c\u0645 \u06f3)",
+         "tvg-name":"Jam-e-Jam 3 (Asia/Australia) (\u062c\u0627\u0645 \u062c\u0645 3)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://sepehrtv.ir/uploads/channel/untitled-3-min.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/logo/untitled-3-min.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://cdn1live.irib.ir/live-channels/smil:jjtvn3/playlist.m3u8?s=tw7DrYldQI3e6rkhaTg4_A&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/jamejam3sd/jamejam3sd.m3u8?s=6-UlobavR4DWPWvtqdywGw&t=1691302656"
       },
       {
          "id":15676,
@@ -450,11 +438,11 @@
          "tvg-id":"abadan IR",
          "tvg-name":"IRIB abadan (\u0622\u0628\u0627\u062f\u0627\u0646)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/abadan.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/abadan.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/abadan/abadan.m3u8?s=GM0lGYV2e-ZEfmQwqEcm3w&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/abadansd/abadansd.m3u8?s=CHgai62PAHn_UT4DcWQneQ&t=1691302656"
       },
       {
          "id":15673,
@@ -462,11 +450,11 @@
          "tvg-id":"azarbayjan IR",
          "tvg-name":"IRIB azarbayjan (\u0622\u0630\u0631\u0628\u0627\u06cc\u062c\u0627\u0646 \u063a\u0631\u0628\u06cc)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/azarbayjan.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/azarbayjan.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive3/azarbayjan/azarbayjan.m3u8?s=fQ-bZoPZYY3O5g-joAPFtA&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/azarbayjansd/azarbayjansd.m3u8?s=Z_D6oswX3a1nmYg268rx5Q&t=1691302656"
       },
       {
          "id":15709,
@@ -474,11 +462,11 @@
          "tvg-id":"sahand IR",
          "tvg-name":"IRIB sahand (\u0633\u0647\u0646\u062f)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/sahand.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/sahand.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/sahand/sahand.m3u8?s=EfWsdD36s2QyxBh2-btP9Q&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/sahandsd/sahandsd.m3u8?s=TcydPlkV0WcN-TJs8ud7OQ&t=1691302656"
       },
       {
          "id":36,
@@ -486,11 +474,11 @@
          "tvg-id":"alborz IR",
          "tvg-name":"IRIB alborz (\u0627\u0644\u0628\u0631\u0632)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://sepehrtv.ir/uploads/channel/alborz-min.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/logo/alborz_1402.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/alboorz/alboorz.m3u8?s=E_m1LEUkitpz-kKUTxHLMQ&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/alborzsd/alborzsd.m3u8?s=aq7AadzqYC2ORitb4jDWhA&t=1691302656"
       },
       {
          "id":15666,
@@ -498,11 +486,11 @@
          "tvg-id":"esfahan IR",
          "tvg-name":"IRIB esfahan (\u0627\u0635\u0641\u0647\u0627\u0646)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/esfahan.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/esfahan.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/esfehan/esfehan.m3u8?s=9xtVpS-jov7WUDqNJz6izA&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/esfehansd/esfehansd.m3u8?s=QDvk1x79P38h3bQuy9VJpg&t=1691302656"
       },
       {
          "id":15708,
@@ -510,11 +498,11 @@
          "tvg-id":"sabalan IR",
          "tvg-name":"IRIB sabalan (\u0633\u0628\u0644\u0627\u0646)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/ardebil.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/ardebil.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/sabalan/sabalan.m3u8?s=6IJxcx2dNr8Z14iUE9jPMA&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/sabalansd/sabalansd.m3u8?s=pBMLILORaK6dP8kERv7caQ&t=1691302656"
       },
       {
          "id":15667,
@@ -522,11 +510,11 @@
          "tvg-id":"ilam IR",
          "tvg-name":"IRIB ilam (\u0627\u06cc\u0644\u0627\u0645)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/ilam.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/ilam.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/ilam/ilam.m3u8?s=ucJxmdhfrH6TbK-qurHc7Q&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/ilamsd/ilamsd.m3u8?s=VBE4HNcyATmsTI-745L_Tg&t=1691302656"
       },
       {
          "id":15670,
@@ -534,11 +522,11 @@
          "tvg-id":"bushehr IR",
          "tvg-name":"IRIB bushehr (\u0628\u0648\u0634\u0647\u0631)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/bushehr.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/bushehr.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/bushehr/bushehr.m3u8?s=o6jCkEOa9LSBuKfsdVHkcw&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/booshehrsd/booshehrsd.m3u8?s=vHo-AT2vpl5zeGqWuQtntQ&t=1691302656"
       },
       {
          "id":40,
@@ -546,11 +534,11 @@
          "tvg-id":"jahanbin IR",
          "tvg-name":"IRIB jahanbin (\u062c\u0647\u0627\u0646 \u0628\u06cc\u0646)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://sepehrtv.ir/uploads/channel/shahrekord__jahanbin-min.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/logo/shahrekord__jahanbin-min.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/jahanbin/jahanbin.m3u8?s=8txlvQ6BBxvqiNCyPXHDcQ&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/jahanbinsd/jahanbinsd.m3u8?s=6FKl-hXn_oGoC_F2wDmmvg&t=1691302656"
       },
       {
          "id":15680,
@@ -558,11 +546,11 @@
          "tvg-id":"khorasanjonoobi IR",
          "tvg-name":"IRIB khorasanjonoobi (\u062e\u0631\u0627\u0633\u0627\u0646 \u062c\u0646\u0648\u0628\u06cc)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/khorasanjonoobi.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/khorasanjonoobi.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/khorasanjonoobi/khorasanjonoobi.m3u8?s=7uNh6XeX7IE8cRzewWxwcg&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/khorasanjonoobisd/khorasanjonoobisd.m3u8?s=LXexsM1wwXXqYxJvOkDhHA&t=1691302656"
       },
       {
          "id":15679,
@@ -570,11 +558,11 @@
          "tvg-id":"khorasanrazavi IR",
          "tvg-name":"IRIB khorasanrazavi (\u062e\u0631\u0627\u0633\u0627\u0646 \u0631\u0636\u0648\u06cc)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/KHORASANRAZAVI.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/KHORASANRAZAVI.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/khorasanrazavi/khorasanrazavi.m3u8?s=X8xVXQA_9LkzrY8jaHrZDQ&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/khorasanrazavisd/khorasanrazavisd.m3u8?s=1ViCgzG6Ait5U8jmGZj6dw&t=1691302656"
       },
       {
          "id":47,
@@ -582,11 +570,11 @@
          "tvg-id":"khorasanshomali IR",
          "tvg-name":"IRIB khorasanshomali (\u062e\u0631\u0627\u0633\u0627\u0646 \u0634\u0645\u0627\u0644\u06cc - \u0627\u062a\u0631\u06a9)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://sepehrtv.ir/uploads/channel/atrak-min.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/logo/atrak-min.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/khorasanshomali/khorasanshomali.m3u8?s=FZO3WdMpdRKe2a9tu3U_lQ&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/khorasanshomalisd/khorasanshomalisd.m3u8?s=yX-QFwge4wiJdEKLFxGo8Q&t=1691302656"
       },
       {
          "id":15662,
@@ -594,11 +582,11 @@
          "tvg-id":"khalijefars IR",
          "tvg-name":"IRIB khalijefars (\u062e\u0644\u06cc\u062c \u0641\u0627\u0631\u0633)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/khalijefars.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/khalijefars.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/khalijefars/khalijefars.m3u8?s=bxNlOZQ9prGw7jmS1BisdQ&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/khalijefarssd/khalijefarssd.m3u8?s=5of_pz4S0ll6JKduJsEcKw&t=1691302656"
       },
       {
          "id":43,
@@ -606,11 +594,11 @@
          "tvg-id":"khoozestan IR",
          "tvg-name":"IRIB khoozestan (\u062e\u0648\u0632\u0633\u062a\u0627\u0646)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/khoozestan1.jpg",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/khoozestan1.jpg",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/khoozestan/khoozestan.m3u8?s=cxQBPA38QNlV99LwiSXTNw&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/khoozestansd/khoozestansd.m3u8?s=XgisZYEk8GQCyDNLifXxWQ&t=1691302656"
       },
       {
          "id":15665,
@@ -618,11 +606,11 @@
          "tvg-id":"eshragh IR",
          "tvg-name":"IRIB eshragh (\u0627\u0634\u0631\u0627\u0642)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/eshragh.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/eshragh.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/eshragh/eshragh.m3u8?s=iJcKZVVmBnxVQ2fR-HVbMw&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/eshraghsd/eshraghsd.m3u8?s=H-4J2s1JJdNsHfU2MAUmcA&t=1691302656"
       },
       {
          "id":54,
@@ -630,11 +618,11 @@
          "tvg-id":"semnan IR",
          "tvg-name":"IRIB semnan (\u0633\u0645\u0646\u0627\u0646)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://sepehrtv.ir/uploads/channel/semnan-02.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/logo/semnan-02.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive3/semnan/semnan.m3u8?s=AdTXQq1FMEAUE2k4aZrNgQ&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/semnansd/semnansd.m3u8?s=WSQnEvsXt0Kjj2zYdd84ZA&t=1691302656"
       },
       {
          "id":15684,
@@ -642,11 +630,11 @@
          "tvg-id":"hamoon IR",
          "tvg-name":"IRIB hamoon (\u0647\u0627\u0645\u0648\u0646)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/hamoon.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/hamoon.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/hamoon/hamoon.m3u8?s=Qx5cepJ6vkfSgDUbG93_eA&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/hamoonsd/hamoonsd.m3u8?s=G0ZcG_ht2DynbiwJgS05bg&t=1691302656"
       },
       {
          "id":15663,
@@ -654,11 +642,11 @@
          "tvg-id":"fars IR",
          "tvg-name":"IRIB fars (\u0641\u0627\u0631\u0633)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/fars.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/fars.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/fars/fars.m3u8?s=WQCeLNZ8mRPDvoO5DS7jcA&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/farssd/farssd.m3u8?s=nCrSugZwVYmE_UfbMCFiGQ&t=1691302656"
       },
       {
          "id":15707,
@@ -666,11 +654,11 @@
          "tvg-id":"qazvin IR",
          "tvg-name":"IRIB qazvin (\u0642\u0632\u0648\u06cc\u0646)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/qazvin.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/qazvin.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/qazvin/qazvin.m3u8?s=K6HKozuUJEp6aH1B1Y_-jw&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/qazvinsd/qazvinsd.m3u8?s=vX45_J78Lq8qnXbwFjDnmg&t=1691302656"
       },
       {
          "id":15706,
@@ -678,11 +666,11 @@
          "tvg-id":"noor IR",
          "tvg-name":"IRIB noor (\u0646\u0648\u0631)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/noor.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/noor.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/noor/noor.m3u8?s=v2oTE7-fNCM8sqDjBZj81w&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/noorsd/noorsd.m3u8?s=lt2c4g-9yyEGoQT2mo0BUw&t=1691302656"
       },
       {
          "id":15658,
@@ -690,11 +678,11 @@
          "tvg-id":"kordestan IR",
          "tvg-name":"IRIB kordestan (\u06a9\u0631\u062f\u0633\u062a\u0627\u0646)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/kordestan1.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/kordestan1.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive3/kordestan/kordestan.m3u8?s=LbJS1c8JcUTcvAdhaWhNdA&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/kordestansd/kordestansd.m3u8?s=zp9qYoDk_H_Nu4yusFWsfg&t=1691302656"
       },
       {
          "id":15664,
@@ -702,11 +690,11 @@
          "tvg-id":"kerman IR",
          "tvg-name":"IRIB kerman (\u06a9\u0631\u0645\u0627\u0646)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://sepehrtv.ir/uploads/channel/kerman-min.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/logo/kerman-min.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/kerman/kerman.m3u8?s=R7k7g3XZF_9sQsgQ2MW_fg&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/kermansd/kermansd.m3u8?s=prHapifbOEa75Dx4wzjNQg&t=1691302656"
       },
       {
          "id":41,
@@ -714,11 +702,11 @@
          "tvg-id":"kermanshah IR",
          "tvg-name":"IRIB kermanshah (\u06a9\u0631\u0645\u0627\u0646\u0634\u0627\u0647)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://sepehrtv.ir/uploads/channel/kermanshah.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/logo/kermanshah.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/kermanshah/kermanshah.m3u8?s=2Xxly8zC5ffZNCDE_ucjAw&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/kermanshahsd/kermanshahsd.m3u8?s=yGiYmvE-pZwkngrzVYdpBw&t=1691302656"
       },
       {
          "id":15668,
@@ -726,11 +714,11 @@
          "tvg-id":"dena IR",
          "tvg-name":"IRIB dena (\u062f\u0646\u0627)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/dena.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/dena.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/dena/dena.m3u8?s=KXPRO_xQBzmIDHCJnAtV7g&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/denasd/denasd.m3u8?s=XGv6smHU5ZRY1J_1YfTYWw&t=1691302657"
       },
       {
          "id":15678,
@@ -738,11 +726,11 @@
          "tvg-id":"kish IR",
          "tvg-name":"IRIB kish (\u06a9\u06cc\u0634)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/kish.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/kish.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/kish/kish.m3u8?s=9N3HkDH_eVW7GRqSi8siNQ&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/kishsd/kishsd.m3u8?s=RZNRcnDl-MLO5si0duCE5w&t=1691302657"
       },
       {
          "id":15661,
@@ -750,11 +738,11 @@
          "tvg-id":"golestan IR",
          "tvg-name":"IRIB golestan (\u06af\u0644\u0633\u062a\u0627\u0646)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/golestan.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/Golestan150.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/golestan/golestan.m3u8?s=HuqD49ZR2Id0GzqiovdGqg&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/golestansd/golestansd.m3u8?s=u5ysmzb_uVKCml8iot-DrA&t=1691302657"
       },
       {
          "id":15705,
@@ -762,11 +750,11 @@
          "tvg-id":"baran IR",
          "tvg-name":"IRIB baran (\u0628\u0627\u0631\u0627\u0646)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/baran.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/baran.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/baran/baran.m3u8?s=LwdUZkldgwHek_TKuD0Ciw&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/baransd/baransd.m3u8?s=NmijodyPzXUZDLAc9DGYQg&t=1691302657"
       },
       {
          "id":15675,
@@ -774,11 +762,11 @@
          "tvg-id":"aflak IR",
          "tvg-name":"IRIB aflak (\u0627\u0641\u0644\u0627\u06a9)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/aflak_new.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/aflak_new.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/aflak/aflak.m3u8?s=cnebAsi0rzJp0UA94FMXYQ&t=1638008962"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/aflaksd/aflaksd.m3u8?s=I3Op1oh9_XSJks2hV9A9Fg&t=1691302657"
       },
       {
          "id":15710,
@@ -786,11 +774,11 @@
          "tvg-id":"taban IR",
          "tvg-name":"IRIB taban (\u062a\u0627\u0628\u0627\u0646)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/taban.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/taban.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/taban/taban.m3u8?s=HwxxgC_vl1lDRpxPnQ-QBw&t=1638008963"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/tabansd/tabansd.m3u8?s=KUVouqIch7ghrY8XQQsHgQ&t=1691302657"
       },
       {
          "id":52,
@@ -798,11 +786,11 @@
          "tvg-id":"mazandaran IR",
          "tvg-name":"IRIB mazandaran (\u0645\u0627\u0632\u0646\u062f\u0631\u0627\u0646)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://sepehrtv.ir/uploads/channel/mazandaran.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/logo/mazandaran.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/mazandaran/mazandaran.m3u8?s=zQ092DYdUMKMhzCajBIuOA&t=1638008963"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/mazandaransd/mazandaransd.m3u8?s=GSHtLS2iekDgIU2WWrvElQ&t=1691302657"
       },
       {
          "id":15674,
@@ -810,11 +798,11 @@
          "tvg-id":"aftab IR",
          "tvg-name":"IRIB aftab (\u0622\u0641\u062a\u0627\u0628)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/aftab.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/aftab_01.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive3/aftab/aftab.m3u8?s=0iMajvWFiUEXY7I73QSoyQ&t=1638008963"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/aftabsd/aftabsd.m3u8?s=UR70zXtl68QcMjbbCbozPA&t=1691302657"
       },
       {
          "id":15677,
@@ -822,11 +810,11 @@
          "tvg-id":"mahabad IR",
          "tvg-name":"IRIB mahabad (\u0645\u0647\u0627\u0628\u0627\u062f)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/mahabad.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/mahabad.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/mahabad/mahabad.m3u8?s=Kuczli1EyuXyDjRXvWGF6w&t=1638008963"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/mahabadsd/mahabadsd.m3u8?s=2Ovz5ykRU-REjIwsX3_3Vw&t=1691302657"
       },
       {
          "id":15659,
@@ -834,23 +822,71 @@
          "tvg-id":"hamedan IR",
          "tvg-name":"IRIB hamedan (\u0647\u0645\u062f\u0627\u0646)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/HAMEDAN.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/HAMEDAN.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive3/hamedan/hamedan.m3u8?s=Yu08nigNLfSKGpv4qL_2Rg&t=1638008963"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/hamedansd/hamedansd.m3u8?s=5n0s4bKAJcnL64YBby7CHg&t=1691302657"
+      },
+      {
+         "id":15703,
+         "uid":"javaneh",
+         "tvg-id":"javaneh IR",
+         "tvg-name":"IRIB Javaneh (\u062c\u0648\u0627\u0646\u0647 - HD)",
+         "tvg-language":"Persian",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/shabake%20javane130%20130.png",
+         "tvg-country":"IR",
+         "tvg-url":"",
+         "group-title":"General",
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/javanehhd/javanehhd.m3u8?s=pvRLs0hfzTUrRo4y0dfIzA&t=1691302657"
+      },
+      {
+         "id":15704,
+         "uid":"ara",
+         "tvg-id":"ara IR",
+         "tvg-name":"IRIB ara (\u0622\u0631\u0627  - HD)",
+         "tvg-language":"Persian",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/shirran.png",
+         "tvg-country":"IR",
+         "tvg-url":"",
+         "group-title":"General",
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/arahd/arahd.m3u8?s=hHD2h6pJ1LGIOU2ALAwrPQ&t=1691302657"
       },
       {
          "id":15687,
          "uid":"jam",
          "tvg-id":"jam IR",
-         "tvg-name":"IRIB Jam (\u062c\u0627\u0645)",
+         "tvg-name":"IRIB Jam (\u062c\u0627\u0645  - HD)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/shabake%20jaam130%20130.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/shabake%20jaam130%20130.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/jam/jam.m3u8?s=GUZIeGWv1Wkwc4zQTyF05g&t=1638008963"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/jaamhd/jaamhd.m3u8?s=RGK2GHz9_dsPK8H3OBAZkg&t=1691302657"
+      },
+      {
+         "id":15688,
+         "uid":"nama",
+         "tvg-id":"nama IR",
+         "tvg-name":"IRIB Nama (\u0646\u0645\u0627  - HD)",
+         "tvg-language":"Persian",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/shabake%20nama130%20130.png",
+         "tvg-country":"IR",
+         "tvg-url":"",
+         "group-title":"General",
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/namahd/namahd.m3u8?s=Q0yCjbk2Dy-K9jZovcWMGg&t=1691302657"
+      },
+      {
+         "id":64,
+         "uid":"nava",
+         "tvg-id":"nava IR",
+         "tvg-name":"IRIB Nava (\u0646\u0648\u0627  - HD)",
+         "tvg-language":"Persian",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/shabake%20nava%20130%20130.png",
+         "tvg-country":"IR",
+         "tvg-url":"",
+         "group-title":"General",
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/navahd/navahd.m3u8?s=uH-AMtNUja9T-pTlGaEMqw&t=1691302657"
       },
       {
          "id":15656,
@@ -858,23 +894,11 @@
          "tvg-id":"labbaik IR",
          "tvg-name":"IRIB labbaik (\u0644\u0628\u06cc\u06a9)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/shabake%20labeik%20130%20130.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/shabake%20labeik%20130%20130.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/labbayk/labbayk.m3u8?s=GOLNfeUmrMHr6_LIRLlBzw&t=1638008963"
-      },
-      {
-         "id":16629,
-         "uid":"hausatvra",
-         "tvg-id":"hausatvra IR",
-         "tvg-name":"IRIB hausatvra (\u0631\u0627\u062f\u06cc\u0648 \u0647\u0648\u0633\u0627)",
-         "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/radio-hausa_1.png",
-         "tvg-country":"IR",
-         "tvg-url":"",
-         "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/presstv/hausatvra/index.m3u8"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/labbaykhd/labbaykhd.m3u8?s=N8uZJMEVW5oLyR9gM2dqbQ&t=1691302657"
       },
       {
          "id":30685,
@@ -882,71 +906,95 @@
          "tvg-id":"habibtv IR",
          "tvg-name":"IRIB Habib TV (\u062d\u0628\u06cc\u0628)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/habib300-min.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/habib300-min.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/live/habib/habib.m3u8?s=TOzQSGUslOvhKOMlDPd1zA&t=1638008963"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/habibhd/habibhd.m3u8?s=fs15xDSKgpvivJuKRHhupg&t=1691302657"
       },
       {
-         "id":15703,
-         "uid":"javaneh",
-         "tvg-id":"javaneh IR",
-         "tvg-name":"IRIB Javaneh (\u062c\u0648\u0627\u0646\u0647)",
+         "id":210539,
+         "uid":"ammar",
+         "tvg-id":"ammar IR",
+         "tvg-name":"IRIB ammar (\u0642\u0631\u0622\u0646 \u0646\u0645\u0627)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/shabake%20javane130%20130.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/logo/quran-nama.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/javaneh/javaneh.m3u8?s=CKXb5-MfN6Fa1_he9Hcm-g&t=1638008963"
-      },
-      {
-         "id":15704,
-         "uid":"ara",
-         "tvg-id":"ara IR",
-         "tvg-name":"IRIB ara (\u0622\u0631\u0627)",
-         "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/shirran.png",
-         "tvg-country":"IR",
-         "tvg-url":"",
-         "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/live/shiran/shiran.m3u8"
-      },
-      {
-         "id":15688,
-         "uid":"nama",
-         "tvg-id":"nama IR",
-         "tvg-name":"IRIB Nama (\u0646\u0645\u0627)",
-         "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/shabake%20nama130%20130.png",
-         "tvg-country":"IR",
-         "tvg-url":"",
-         "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/nama/nama.m3u8?s=ZKxZI9lJIVo4a999tThSXw&t=1638008963"
-      },
-      {
-         "id":64,
-         "uid":"nava",
-         "tvg-id":"nava IR",
-         "tvg-name":"IRIB Nava (\u0646\u0648\u0627)",
-         "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/shabake%20nava%20130%20130.png",
-         "tvg-country":"IR",
-         "tvg-url":"",
-         "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/securelive/nava/nava.m3u8?s=_3wLD821OiPu2FMfEskodA&t=1638008963"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/ammar/ammar.m3u8?s=hW5CgrV234v-AS2Vh3RCrA&t=1691302657"
       },
       {
          "id":45638,
-         "uid":"bazarmohtava",
-         "tvg-id":"bazarmohtava IR",
-         "tvg-name":"IRIB bazarmohtava (\u0627\u06cc\u0627\u0645)",
+         "uid":"ayyam",
+         "tvg-id":"ayyam IR",
+         "tvg-name":"IRIB ayyam (\u0627\u06cc\u0627\u0645)",
          "tvg-language":"Persian",
-         "tvg-logo":"https://s-cloud.irib.ir/img/channel/ayam.png",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/ayyam.png",
          "tvg-country":"IR",
          "tvg-url":"",
          "group-title":"General",
-         "stream-url":"https://s-cloud.irib.ir/live/bazarmohtava/bazarmohtava.m3u8?s=uZoYqsSJj1Dh7S6N1iGASw&t=1638008963"
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/ayyamhd/ayyamhd.m3u8?s=OdWTMHKsxCn_bU1OnewnsA&t=1691302657"
+      },
+      {
+         "id":181453,
+         "uid":"razavi",
+         "tvg-id":"razavi IR",
+         "tvg-name":"IRIB razavi (\u0631\u0636\u0648\u06cc)",
+         "tvg-language":"Persian",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/razavi.png",
+         "tvg-country":"IR",
+         "tvg-url":"",
+         "group-title":"General",
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/nasimrezvan/nasimrezvan.m3u8?s=hZ6VVx-zgjS-Nxrdq60NZA&t=1691302657"
+      },
+      {
+         "id":291567,
+         "uid":"ketabnama",
+         "tvg-id":"ketabnama IR",
+         "tvg-name":"IRIB ketabnama (\u06a9\u062a\u0627\u0628 \u0646\u0645\u0627)",
+         "tvg-language":"Persian",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/news/ketabnama_645cd82bc98b6.png",
+         "tvg-country":"IR",
+         "tvg-url":"",
+         "group-title":"General",
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/ketabnama/ketabnama.m3u8?s=p3TU5nZyRqT-3LQac4WrSA&t=1691302657"
+      },
+      {
+         "id":15672,
+         "uid":"alalam-syria",
+         "tvg-id":"alalam-syria IR",
+         "tvg-name":"IRIB alalam-syria (\u0627\u0644\u0639\u0627\u0644\u0645 \u0633\u0648\u0631\u06cc\u0647)",
+         "tvg-language":"Persian",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/Alalam_Syria1.png",
+         "tvg-country":"IR",
+         "tvg-url":"",
+         "group-title":"General",
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/alalamsyriasd/alalamsyriasd.m3u8?s=JB1MznfnBrhGZqirgwVCRQ&t=1691302657"
+      },
+      {
+         "id":283884,
+         "uid":"irinn2",
+         "tvg-id":"irinn2 IR",
+         "tvg-name":"IRIB irinn2 (\u062e\u0628\u0631 \u06f2)",
+         "tvg-language":"Persian",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/news/irinn2_64328471ba6b6.png",
+         "tvg-country":"IR",
+         "tvg-url":"",
+         "group-title":"General",
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/irinn2sd/irinn2sd.m3u8?s=Gm6sFaHbsTAJ1d4f-RM8Og&t=1691302657"
+      },
+      {
+         "id":204404,
+         "uid":"TehranUniversity",
+         "tvg-id":"TehranUniversity IR",
+         "tvg-name":"IRIB TehranUniversity (\u062f\u0627\u0646\u0634\u06af\u0627\u0647 \u062a\u0647\u0631\u0627\u0646)",
+         "tvg-language":"Persian",
+         "tvg-logo":"https://lb-cdn.sepehrtv.ir/img/channel/tehranuni.png",
+         "tvg-country":"IR",
+         "tvg-url":"",
+         "group-title":"General",
+         "stream-url":"https://lb-cdn.sepehrtv.ir/securelive3/tehranuni/tehranuni.m3u8?s=LmHZgKljD_C7S_W_shkWTQ&t=1691302657"
       }
    ]
 }
