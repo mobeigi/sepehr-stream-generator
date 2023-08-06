@@ -6,6 +6,8 @@ import random
 from time import time
 
 class Browser:
+    BASE_API_URL = "https://sepehrapi.sepehrtv.ir"
+
     def __init__(self):
         """ Initialize browser as needed """
         self.browser = mechanicalsoup.StatefulBrowser()
@@ -19,7 +21,7 @@ class Browser:
 
     def get_all_sepehr_channels(self):
         """ Get all of Sepehrs channel list"""
-        SEPEHR_API_ALL_CHANNELS_URL = f'https://sepehrapi.irib.ir/v3/channels/1?page_size=1000&page=1&include_media_resources=true&include_details=true'
+        SEPEHR_API_ALL_CHANNELS_URL = f'{self.BASE_API_URL}/v3/channels/1?page_size=1000&page=1&include_media_resources=true&include_details=true'
         
         headers = {
             'Authorization': self.generate_oauth_authorization_field() 
@@ -54,12 +56,12 @@ class Browser:
 
     def get_sepehr_channel_by_id(self, id):
         """ Get channel using channel id (numeric) """
-        SEPEHR_API_CHANNELS_URL = f'https://sepehrapi.irib.ir/v3/channels/?list={id}&include_media_resources=true&include_details=true'
+        SEPEHR_API_CHANNELS_URL = f'{self.BASE_API_URL}/v3/channels/?list={id}&include_media_resources=true&include_details=true'
         return self.get_sepehr_channel(SEPEHR_API_CHANNELS_URL)
         
     def get_sepehr_channel_by_uid(self, uid):
         """ Get channel using channel uid (string) """
-        SEPEHR_API_CHANNELS_URL = f'https://sepehrapi.irib.ir/v3/channels/?key={uid}&include_media_resources=true&include_details=true'
+        SEPEHR_API_CHANNELS_URL = f'{self.BASE_API_URL}/v3/channels/?key={uid}&include_media_resources=true&include_details=true'
         return self.get_sepehr_channel(SEPEHR_API_CHANNELS_URL)
 
     def get_sepehr_channel(self, url):
