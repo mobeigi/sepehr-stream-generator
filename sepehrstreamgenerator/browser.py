@@ -56,6 +56,8 @@ class Browser:
             )
             sepehr_channels.append(sepehr_channel)
 
+        self.logger.info(f"{len(sepehr_channels)} sepehr channels found.")
+
         return sepehr_channels
 
     def get_sepehr_channel_by_id(self, id):
