@@ -1,6 +1,9 @@
 # Output files
 out/*
 
+# Logs
+logs/*
+
 # Github.com gitignore/Python.gitignore
 # Byte-compiled / optimized / DLL files
 __pycache__/

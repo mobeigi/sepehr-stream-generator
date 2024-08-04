@@ -1,4 +1,5 @@
 from .sepehr_channel import SepehrChannel
+from .logger import Logger
 
 import mechanicalsoup
 import string
@@ -12,6 +13,7 @@ class Browser:
         """ Initialize browser as needed """
         self.browser = mechanicalsoup.StatefulBrowser()
         self.browser.set_user_agent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36')
+        self.logger = Logger('sepehrstreamgenerator').getLogger()
 
     def generate_oauth_authorization_field(self):
         """ Generate data for OAuth Authorization header """
@@ -29,17 +31,19 @@ class Browser:
         response = self.browser.get(SEPEHR_API_ALL_CHANNELS_URL, headers=headers)
 
         if response.status_code != 200:
+            self.logger.error(f"Non-200 response code. Code: {response.status_code}")
             raise SystemError
 
         # Check we received the listing data we needed
         json = response.json()
         if 'list' not in json or json['list'] is None or len(json['list']) == 0:
+            self.logger.error(f"No listing data found. JSON: {json}")
             raise SystemError
         
         sepehr_channels = []
         for channel in json["list"]:
             if 'streams' not in channel or channel['streams'] is None or len(channel['streams']) == 0 or 'src' not in channel['streams'][0]:
-                # TODO: Log error
+                self.logger.warn(f"Could not find channel. Channel: {channel}.")
                 continue
 
             sepehr_channel = SepehrChannel(
@@ -74,17 +78,19 @@ class Browser:
         response = self.browser.get(url, headers=headers)
 
         if response.status_code != 200:
+            self.logger.error(f"Non-200 response code. Code: {response.status_code}")
             raise SystemError
 
         # Check we received the listing data we needed
         json = response.json()
         if 'list' not in json or json['list'] is None or len(json['list']) == 0:
+            self.logger.error(f"No listing data found. JSON: {json}")
             raise SystemError
 
         channel = response.json()['list'][0]
 
         if 'streams' not in channel or channel['streams'] is None or len(channel['streams']) == 0 or 'src' not in channel['streams'][0]:
-            # TODO: Log error
+            self.logger.error(f"Could not find channel. Channel: {channel}.")
             raise SystemError
 
         return SepehrChannel(
